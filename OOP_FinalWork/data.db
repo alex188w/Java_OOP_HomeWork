@@ -1,0 +1,12 @@
+1. Contact: name = Иван, lastName = Иванов
+communication: {Адрес=Космонавтов 55, Телефон=8234456}
+
+2. Contact: name = Михаил, lastName = Светлов
+communication: {Email=micha@mail.ru, Адрес VK=vk.com/micha, Телеграмм=@micha, Телефон=834589}
+
+3. Contact: name = Магазин, lastName = Альянс
+communication: {Адрес=Восточная 78, Email=alyans@mail.ru, Адрес VK=vk.com.alyans, Телефон=8237899}
+
+4. Contact: name = Отель, lastName = Солнечный
+communication: {Адрес=Набережная 55}
+
